@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+.topmenu{
+    width: 100%;
+    height: 50px;
+    background: #000000;
+}
+.sidebar{
+    float: left;
+    width: 20%;
+    height: 650px;
+    background: #009e35;
+}
+.center{
+    float: left;
+    width: 60%;
+    height: 650px;
+    background: #fff;
+}
+.banner{
+    height: 200px;
+    background: #871111;
+}
+.sidebar1{
+    width: 15%;
+    height: 400px;
+    background: #ee4040;
+    float: left;
+}
+.content{
+    width: 70%;
+    height: 400px;
+    background: #e6ff42;
+    float: left;
+}
+.sidebar2{
+    width: 15%;
+    height: 400px;
+    background: #ee4040;
+    float: left;
+}
+.footer{
+    clear: both;
+    width: 100%;
+    height: 50px;
+    background: #c29292;
+}
